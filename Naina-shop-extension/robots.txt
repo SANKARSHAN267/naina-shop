@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SANKARSHAN267.github.io/naina-shop/sitemap.xml
